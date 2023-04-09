@@ -2,7 +2,7 @@ pandas
 numpy
 Flask
 #ipykernal
-scukit-learn
+scikit-learn
 seaborn
 
 -e .
